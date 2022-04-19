@@ -1,0 +1,143 @@
+body{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-size: 8%;
+    background-position: left top 600px ;
+    
+}
+
+.container img{
+    width: 80px;
+}
+
+.container{
+    margin-bottom: 40px;
+    
+}
+
+
+#nav{
+    background-color: white;
+}
+
+.carousel-inner{
+    height: 50%;
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: 5%;
+    background-position: center;
+    
+    /* background-color: rgba(255, 240, 241, 0.903); */
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: orange;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: orange;
+    font-size: 5px;
+    margin-top: 50px;
+    text-align: center;
+    padding: 5px 105px;
+    margin-left: 500px;
+    border-radius: 20px;
+    
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+
+.card img{
+    display: block;
+    margin: auto;
+    width: 60%;
+    padding-top: 10px;
+}
+
+.container img {
+    /* responsiv thake na */
+    /* width: 250px; */
+    /* margin: auto; */
+    /* margin-left: 70px; */
+    /* padding: 10px; */
+    /* responsiv thake na */
+}
+
+#card-btn{
+    display: block;
+    margin: auto;
+
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+#card-text{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+}
+
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+
+#see-all{
+    color: rgb(145, 145, 16);
+}
+
+#categoriesId{
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+
+#categoriesId p{
+    display: inline-block;
+    padding: 30px 5px;
+    background-color: orange;
+}
+
+#last-card{
+    /* border: 3px solid gray; */
+    padding: 15px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    margin-bottom: 30px;
+    width: 80%;
+
+    
+}
+
+#bag{
+    /* border: 3px solid gray; */
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+    padding-bottom: 50px;
+    width: 80%;
+}
+
+#last-card2{
+    
+    display: block;
+    margin: auto;
+    width: 80%;
+    
+}
+
+#carosul-text{
+    padding-left: 10px;
+}
